@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://orenalexandotus.github.io/atom.xml" rel="self"/>
+  <link href="https://alexjtech.github.io/atom.xml" rel="self"/>
   
-  <link href="https://orenalexandotus.github.io/"/>
+  <link href="https://alexjtech.github.io/"/>
   <updated>2024-10-24T13:00:16.162Z</updated>
-  <id>https://orenalexandotus.github.io/</id>
+  <id>https://alexjtech.github.io/</id>
   
   <author>
     <name>Alex Johnson</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://orenalexandotus.github.io/2024/10/24/hello-world/"/>
-    <id>https://orenalexandotus.github.io/2024/10/24/hello-world/</id>
+    <link href="https://alexjtech.github.io/2024/10/24/hello-world/"/>
+    <id>https://alexjtech.github.io/2024/10/24/hello-world/</id>
     <published>2024-10-24T13:00:16.162Z</published>
     <updated>2024-10-24T13:00:16.162Z</updated>
     
